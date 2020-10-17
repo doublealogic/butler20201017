@@ -1,4 +1,5 @@
 # butler20201017
 Butler Group Project
 
-- Jacob helped a lot on this project.
+# Jacob did not help on this project.
+- jacob's second line
